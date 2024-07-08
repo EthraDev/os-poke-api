@@ -43,6 +43,7 @@ simulatePokemonBattle();
 
 ## Project Structure
 
+```
 os-poke-api/
 │
 ├── src/
@@ -56,6 +57,7 @@ os-poke-api/
 ├── package.json
 ├── README.md
 └── index.js
+```
 
 ## Tests
 
