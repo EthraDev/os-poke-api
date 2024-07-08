@@ -2,6 +2,8 @@
 
 You always wanted to know which pokemon would win between the two random ones. With this API, you'll know everything!
 
+![Texte alternatif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMyNzRkdnpianhlbHJpdDV2a2JpOWh0eW81ZjBid2Rxb2hqd21xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U2nN0ridM4lXy/giphy.gif)
+
 ## Table of contents
 
 1. [Prerequisites](#prerequisites)
