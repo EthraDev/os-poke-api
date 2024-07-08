@@ -1,5 +1,5 @@
 {
-  "name": "os-poke-api",
+  "name": "os-poke-battle-arena",
   "version": "1.0.1",
   "description": "API sur le thème de pokemon !",
   "main": "index.js",
