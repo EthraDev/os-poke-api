@@ -1,0 +1,28 @@
+{
+  "name": "os-poke-api",
+  "version": "1.0.0",
+  "description": "API sur le thème de pokemon !",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthraDev/os-poke-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthraDev/os-poke-api/issues"
+  },
+  "homepage": "https://github.com/EthraDev/os-poke-api#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.6.0"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
