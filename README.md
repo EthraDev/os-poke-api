@@ -32,9 +32,7 @@ npm install os-poke-battle-arena
 ## Usage
 
 ```js
-import simulatePokemonBattle from './src/combat.js';
-
-simulatePokemonBattle();
+simulatePokemonBattle(createPokemonFromAPI);
 ```
 
 ## Features
@@ -50,8 +48,9 @@ os-poke-api/
 │
 ├── src/
 │   ├── getRandomPokemon.js
-│   ├── getPokemonCapacities.js
-│   ├── combat.js
+│   ├── getCapacity.js
+│   ├── arenaBattle.js
+│   ├── createPokemon.js
 │   └── pokemon.js
 ├── test/
 │   ├── getRandomPokemon.test.js
