@@ -2,7 +2,7 @@
 
 You always wanted to know which pokemon would win between the two random ones. With this API, you'll know everything!
 
-![Texte alternatif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnMyNzRkdnpianhlbHJpdDV2a2JpOWh0eW81ZjBid2Rxb2hqd21xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U2nN0ridM4lXy/giphy.gif)
+![Texte alternatif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h5M3FvYmRxbmp2aG16eHo1eGptenB2bmo5MDg0b2w5enNzeDAwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xuXzcHMkuwvf2/giphy.gif)
 
 ## Table of contents
 
