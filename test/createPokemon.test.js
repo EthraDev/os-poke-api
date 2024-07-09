@@ -1,5 +1,4 @@
 import createPokemonFromAPI from "../src/createPokemon";
-import getPokemonCapacity from "../src/getCapacity";
 
 // test unitaire
 

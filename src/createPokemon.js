@@ -1,4 +1,4 @@
-import Pokemon from './Pokemon.js';
+import Pokemon from './pokemon.js';
 import getRandomPokemon from './getRandomPokemon.js';
 import getPokemonCapacity from './getCapacity.js';
 
