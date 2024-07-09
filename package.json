@@ -1,6 +1,6 @@
 {
   "name": "os-poke-battle-arena",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "API sur le thème de pokemon !",
   "main": "index.js",
   "type": "module",

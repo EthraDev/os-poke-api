@@ -20,8 +20,8 @@ export default async function getPokemonCapacity(pokemonID) {
 
         const data = await response.json();
         const abilities = data.abilities.map(ability => ability.ability.name);
-
         return abilities;
+        
     } catch (error) {
         console.error('Erreur lors de la récupération des capacités du Pokémon:', error);
         throw error;
